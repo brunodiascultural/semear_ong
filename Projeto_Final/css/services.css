@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* CONTAINER */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    list-style: none;
+    background-image: linear-gradient(to right bottom, #134e5e, #10616c, #187476, #2c877d, #479a80, #53a889, #60b691, #6ec499, #6bd2ad, #67e0c3, #63edd9, #5ffbf1);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 100px);
+}
+
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 10px;
+}
+
+.header ul li a:hover {
+    text-decoration: underline;
+}
+
+.header img {
+    width: 80px;
+}
+
+.material-icons {
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.material-icons.md-36 {
+    font-size: 36px;
+}
+
+.material-icons:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background: linear-gradient(to right, #ECE9E6, #FFFFFF);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.services {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.services h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.services h2 {
+    margin: 20px 0;
+}
+
+.services ul {
+    list-style-type: circle;
+    margin: 20px 0;
+}
+
+/* FOOTER */
+footer {
+    background-image: linear-gradient(to right bottom, #134e5e, #10616c, #187476, #2c877d, #479a80, #53a889, #60b691, #6ec499, #6bd2ad, #67e0c3, #63edd9, #5ffbf1);
+}
+
+footer p {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer span {
+    margin: 10px;
+    font-size: 17px;
+}
+
+.profileGrid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+}
+
+.personal {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    transform: scale(0.8);
+    transition: all ease 0.2s;
+}
+
+.github {
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+.profile img:hover {
+    transform: scale(1);
+}
