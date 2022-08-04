@@ -41,24 +41,10 @@ Trata-se de uma ONG fictícia não governamental, sem fins lucrativos, que promo
 <br>
 
 > ## Desenvolvedores 🚀 
-<p align="left">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFiqtzj4tiurA/profile-displayphoto-shrink_200_200/0/1623528312136?e=1643846400&v=beta&t=YEk4Wo8evJDzdfjKWPiTRbsyzAF1mMsqt-jRfRetIZ4" width="138" title="Bruno Dias"/>
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHLQ9651gZWXw/profile-displayphoto-shrink_200_200/0/1638148755963?e=1643846400&v=beta&t=1w_RQGS4KDFMBNbDPSQDleFbb9RY3hxBpQGwTQdbJmc" width="138" title="Jaqueline de Freitas Cézar Rodrigues"/>
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQllzyf_4E6A/profile-displayphoto-shrink_200_200/0/1574777329411?e=1643846400&v=beta&t=TpbAk6nDqVZH1mWRUzSEOJkokcyl8StMa5Au73oQtDs" width="138" title="Igor Pedrosa"/>
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFUPkQTriX8kA/profile-displayphoto-shrink_200_200/0/1637006488235?e=1643846400&v=beta&t=Bah7xJwACheczCcWc6Eevr5NdO-qmVrBaZHCD9KbT04" width="138" title="Sidcley F. do Nascimento"/>
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQE-jQwDqY5yQA/profile-displayphoto-shrink_200_200/0/1610217565646?e=1643846400&v=beta&t=huK0xfWbV4ECncKJZLb_tt8PWsFWnXYqNe0m3gpyU6c" width="138" title="Diego Zagalia Ferreira"/>
-</p>  
 
+Bruno Dias - https://github.com/brunodiascultural <br>
+Jaqueline de Freitas Cézar Rodrigues - https://github.com/agorasoudev <br>
+Igor Pedrosa - https://github.com/IgorLAP <br>
+Sidcley F. do Nascimento - https://github.com/Sidnasciment0 <br>
+Diego Zagalia Ferreira - https://github.com/zagalia1984
 
-https://github.com/brunodiascultural <br>
-https://github.com/agorasoudev <br>
-https://github.com/IgorLAP <br>
-https://github.com/Sidnasciment0 <br>
-https://github.com/zagalia1984
-
-
-
- 
-
-<br>
-<br>
